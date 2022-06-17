@@ -11,7 +11,6 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 
 public class ServerTCP {
-//asdasdasd
     public final static int SERVER_PORT = 8000;
 
     public static void main(String[] args) throws IOException {
